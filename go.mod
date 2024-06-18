@@ -1,3 +1,3 @@
-module contracts
+module github.com/pa-khan/tasks-contracts
 
-go 1.22
+go 1.22.4
